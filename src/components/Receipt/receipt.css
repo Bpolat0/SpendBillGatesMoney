@@ -1,9 +1,12 @@
+#receipt{
+    background-color: #ffffff;
+}
+
 .receipt-wrapper{
     display: flex;
     padding: 1% 25%;
     margin: 0.5% 0%;
     flex-direction: column;
-    background-color:#ffff;
     align-items: center;
     text-align: center;
     justify-content: center;
@@ -29,7 +32,6 @@
     margin-right: auto;
     text-align: left;
     grid-gap: 10px 0;
-    background-color:aliceblue;
 }
 
 .receipt-item-total ,.total-cost span{
