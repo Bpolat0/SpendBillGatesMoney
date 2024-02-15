@@ -40,15 +40,15 @@ https://spend-bill-gates-money-wine.vercel.app/
 
 *Başlık Bölümü*
 
-<img src="images/ProjectScreenShots/header-section.png" alt="Ana Sayfa Bölümü" width="800" />
+<img src="Images/ProjectScreenShots/header-section.png" alt="Ana Sayfa Bölümü" width="800" />
 
 *Ürünler Bölümü*
 
-<img src="images/ProjectScreenShots/items-section.png" alt="Sınıflar Bölümü" width="800" />
+<img src="Images/ProjectScreenShots/items-section.png" alt="Sınıflar Bölümü" width="800" />
 
 *Fiş Bölümü*
 
-<img src="images/ProjectScreenShots/receipt-section.png" alt="Sınıflar Bölümü" width="800"  />
+<img src="Images/ProjectScreenShots/receipt-section.png" alt="Sınıflar Bölümü" width="800"  />
 
 ## Lisans
 

@@ -38,15 +38,15 @@ https://spend-bill-gates-money-wine.vercel.app/
 
 *Header Section*
 
-<img src="images/ProjectScreenShots/header-section.png" alt="Home Section" width="800" />
+<img src="Images/ProjectScreenShots/header-section.png" alt="Home Section" width="800" />
 
 *Items Section*
 
-<img src="images/ProjectScreenShots/items-section.png" alt="Classes Section" width="800" />
+<img src="Images/ProjectScreenShots/items-section.png" alt="Classes Section" width="800" />
 
 *Receipt Section*
 
-<img src="images/ProjectScreenShots/receipt-section.png" alt="Classes Section" width="800"  />
+<img src="Images/ProjectScreenShots/receipt-section.png" alt="Classes Section" width="800"  />
 
 ## License
 
